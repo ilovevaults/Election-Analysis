@@ -1,1 +1,12 @@
 # Election-Analysis
+## Overview 
+  The purpose of this analysis was to determine which candidate had the most amount of votes and which county hard the largest voter turn out.
+### Election Audit Results
+- A total of 369,711 votes were accounted for in this election
+- Charles Casper Stockham had a total of 85,213 votes which accounted for 23.0% of all votes
+- Diana DeGette had a total of 272,892 votes which accounted for 73.8% of all votes
+- Raymon Anthony Doane had a total of 11,606 votes which accounted for 3.1% of all votes
+- Diana DeGette won the election with 272,892 votes of 73.8% of all total votes
+#### Election Audit Summary
+This script can be used to determine the winner of any election and can even determine which state, county, or group of people had the highest turnout
+during the election. This script can be modified for a presidential election which will determine who won the election and the percentage of Democrats or Republicans who voted. Another way this script can be modified could be for food companies to determine which flavor is the best and possibly also determine which age group voted the most. 

@@ -3,7 +3,11 @@
   The purpose of this analysis was to determine which candidate had the most amount of votes and which county hard the largest voter turn out.
 ### Election Audit Results
 - A total of 369,711 votes were accounted for in this election
-- Charles Casper Stockham had a total of 85,213 votes which accounted for 23.0% of all votes
+- Jefferson County had 38,855 votes which accounted for 10.5% of all votes
+- Denver County had 306,055 votes which accounted for 82.8% of all votes
+- Arapahoe County had 24,801 votes which accounted for 6.7% of all votes
+- The county that had the most votes was Denver County
+-  Charles Casper Stockham had a total of 85,213 votes which accounted for 23.0% of all votes
 - Diana DeGette had a total of 272,892 votes which accounted for 73.8% of all votes
 - Raymon Anthony Doane had a total of 11,606 votes which accounted for 3.1% of all votes
 - Diana DeGette won the election with 272,892 votes of 73.8% of all total votes

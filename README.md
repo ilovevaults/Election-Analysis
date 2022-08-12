@@ -1,6 +1,6 @@
 # Election-Analysis
 ## Goals
-  The first goal of this analysis was to determine which candidate had the most amount of votes and which county hard the largest voter turn out. The data that was used came from a CSV file that contained ballot ID, candidate's name, and county. 
+  The first goal of this analysis was to determine which candidate had the most amount of votes and which county hard the largest voter turn out. The data that was used came from a CSV file that contained ballot ID, candidate's name, and county. The second goal was to create a script that can be used in other elections to determine the winner and highest turn out by county.
 ### Election Audit Results
 - A total of 369,711 votes were accounted for in this election
 - Jefferson County had 38,855 votes which accounted for 10.5% of all votes
